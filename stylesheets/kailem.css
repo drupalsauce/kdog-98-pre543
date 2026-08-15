@@ -1,0 +1,16 @@
+body { background:url('../images/graphics/camo.gif') #2F322D; }
+
+img {border:none;}
+
+#nv {margin:14px 0;padding:0;}
+#nv li { display:inline; list-style-type:none; }
+
+#k { width:100%; text-align:center; margin-top:18px; }
+
+#p { width:100%; height:483px; background:url('../images/graphics/pane.gif') no-repeat 50% 50%; text-align:center; }
+#content { text-align:center; position:relative;top:34px; }
+
+.movedown {position:relative;top:16px}
+.moveup   {position:relative;top:-1px}
+
+.spaced_but	{margin-right:9px}

@@ -1,0 +1,16 @@
+:focus {outline:0}
+img			{border:none}
+body		{font-family:"Andale Mono",Courier;font-size:large;color:#fff;background:#2C3D2B;padding:12px}
+a, a:visited			{color:#FFF;text-decoration: none;font-weight: bold}
+a:hover		{color: black}
+
+.my_icon	{position:absolute;top:40px;left:120px}
+
+.sidebar	{border-right:2px dotted black;width:200px}
+.messages	{border-top: 1px solid black;width:100%;}
+.icon		{margin-right:1em;width:10%}
+.sender		{width:10%;text-align:left}
+.preview	{margin-left:0.1em;text-align:left;width:80%}
+
+.stamp		{width:127px;height:168px;background:url(../images/graphics/stamp.gif);float:right;margin-left:20px;margin-bottom:20px;text-align:center;line-height:168px}
+.stamp img {margin-top:36px}
